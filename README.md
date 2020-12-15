@@ -52,7 +52,7 @@
                 </select><br><br>
                 <label>Gender:</label><br>
                 <label> male</label>
-                <input type="radio". name="Gender">
+                <input type="radio" name="Gender">
                 <label>female</label>
                 <input type="radio" name="Gender">
                 <label>others</label><br><br>
