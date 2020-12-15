@@ -51,7 +51,6 @@
                 <option>M.C.A</option>
                 </select><br><br>
                 <label>Gender:</label><br>
-                <input type="radio" name="Gender" class="radio">
                 <label> male</label>
                 <input type="radio". name="Gender">
                 <label>female</label>
