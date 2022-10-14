@@ -55,7 +55,9 @@
                 <input type="radio" name="Gender">
                 <label>female</label>
                 <input type="radio" name="Gender">
-                <label>others</label><br><br>
+                <label>others</label>
+                <input type="radio" name="Gender">
+                <br><br>
                     <label>phone</label><br>
             <input type="tel" class="form" ><br><br>
             <input type="tel" class="form"><br><br>
