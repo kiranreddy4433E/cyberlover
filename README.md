@@ -6,6 +6,7 @@
             body{
                 background: #A300FF;
                 color: white;
+                margin:200px;
             }
             .class{
                 text-align: center;
@@ -19,7 +20,7 @@
                 color: black;
             }
             .form1{
-                background: yellow;
+                background: blue;
                 width: 100%;
             }
             .form2{
