@@ -6,7 +6,6 @@
             body{
                 background: #A300FF;
                 color: white;
-                margin:0;
             }
             .class{
                 text-align: center;
