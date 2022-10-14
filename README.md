@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <title>register form</title>
@@ -20,7 +19,7 @@
                 color: black;
             }
             .form1{
-                background: green;
+                background: yellow;
                 width: 100%;
             }
             .form2{
