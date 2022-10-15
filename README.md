@@ -11,7 +11,7 @@
                 text-align: center;
             }
             .form{
-                background: 50%black;
+                background: 50%gray;
                 color: white;
                 width: 100%;
             }
@@ -74,7 +74,7 @@
            
         </header>
         <hr>
-        <marquee class="form2">kiran</marquee>
+        <marquee class="form2">plz support us</marquee>
         <hr>
     </body>
 </html>
